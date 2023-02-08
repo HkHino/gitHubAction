@@ -9,9 +9,9 @@ key:
   key1: value1
   key2: value2
 
-somjson: {key: value, key2: value} //make as json
+somjson: {key: value, key2: value}
 
-jobarray: //create array array of different sorts
+jobarray:
   -item1
   -item2
   -item3
@@ -25,13 +25,13 @@ objectsArray2:
   - key: value
   - key2: 17
 
-objectsArray3: //array with 2 objects, has 2 properties, pr "element"
+objectsArray3:
   -key:value
   key2:value
   -key:value
   key2:value
 
-longText: the ability to write multiple lines of text
+longText:
   lakhfaæa
   aljfaølsjdwækanfæklajsf
 
